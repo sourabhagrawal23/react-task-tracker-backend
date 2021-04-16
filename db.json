@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Meeting at Work",
+      "day": "April 1 2021, Thursday",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Weekend Project",
+      "day": "April 10 2021, Saturday",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Seminar at College",
+      "day": "April 14 2021, Wednesday",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
